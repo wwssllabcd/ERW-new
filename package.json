@@ -1,9 +1,9 @@
 {
-  "name": "my_addon",
-  "title": "my_Addon",
+  "name": "Exchange Rate Watcher",
+  "title": "Exchange Rate Watcher",
   "id": "jid1-rkqQASr5CLyDEA",
-  "description": "a basic add-on",
+  "description": "Exchange Rate Watcher",
   "author": "",
   "license": "MPL 2.0",
-  "version": "0.1"
+  "version": "2.0"
 }
